@@ -1,5 +1,5 @@
-# insertion-short
-Insertion Short Exercises
+# insertion-sort
+Insertion Sort Exercises
 
 [22,27,16,2,18,6] -> Insertion Shot
 
