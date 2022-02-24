@@ -16,11 +16,11 @@ Big-O gösterimini yazınız.
 
 Time Complexity: 
     
-    Average case: Aradığımız sayının ortada olması: 16 veya 18
+    Average case: Aradığımız sayının ortada olması: 
     
-    Worst case: Aradığımız sayının sonda olması: 27
+    Worst case: Aradığımız sayının sonda olması:
     
-    Best case: Aradığımız sayının dizinin en başında olması: 2
+    Best case: Aradığımız sayının dizinin en başında olması: 
 
 Dizi Sıralandıktan sonra 18 hangi case kapsamına girer? Yazınız.
 
